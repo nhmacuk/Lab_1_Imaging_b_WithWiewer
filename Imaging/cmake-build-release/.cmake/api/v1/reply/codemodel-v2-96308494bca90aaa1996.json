@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Imaging",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Imaging::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Imaging-Release-b04bbe8683f32dccbe7e.json",
+					"name" : "Imaging",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Dropbox/master/GEO1016/Lab_1_Imaging_b_WithWiewer/Lab_1_Imaging_b_WithWiewer/Imaging/cmake-build-release",
+		"source" : "D:/Dropbox/master/GEO1016/Lab_1_Imaging_b_WithWiewer/Lab_1_Imaging_b_WithWiewer/Imaging"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
